@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuz_read_message_from_tunnel
+cmds:
+- cmd: /out/fuz_read_message_from_tunnel
